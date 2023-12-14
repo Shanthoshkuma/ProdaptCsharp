@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prodaptcsharp.Library", "Prodaptcsharp.Library\Prodaptcsharp.Library.csproj", "{87998E88-19AB-4D75-AF76-EB7756D2FEC2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87998E88-19AB-4D75-AF76-EB7756D2FEC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87998E88-19AB-4D75-AF76-EB7756D2FEC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87998E88-19AB-4D75-AF76-EB7756D2FEC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87998E88-19AB-4D75-AF76-EB7756D2FEC2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9D810C1-6F48-40F3-B611-AD6D3025205D}
+	EndGlobalSection
+EndGlobal
